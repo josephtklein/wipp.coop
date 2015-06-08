@@ -1,0 +1,13 @@
+{
+    "require": {
+        "php": ">=5.3.0",
+        "cpliakas/git-wrapper": "~1.0",
+        "symfony/symfony": "2.1.*",
+        "composer/installers": "*"
+    },
+    "config": {
+        "autoloader-suffix": "ComposerManager",
+        "vendor-dir": "../../../all/vendor"
+    },
+    "minimum-stability": "beta"
+}
